@@ -2,7 +2,7 @@
 
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
--->
+--
 <a href="https://github.com/jstrieb/github-stats">
 <img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
@@ -62,7 +62,7 @@ For more information on inaccuracies, see issue
 
 # Installation
 
-<!-- TODO: Add details and screenshots -->
+<!-- TODO: Add details and screenshots --
 
 1. Create a personal access token (not the default GitHub Actions token) using
    the instructions
